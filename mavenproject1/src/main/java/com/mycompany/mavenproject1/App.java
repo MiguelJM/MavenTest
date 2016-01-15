@@ -13,6 +13,7 @@ public class App
 
     public static String printHello(  )
     {
-        return "Hello World!!!!";
+        System.out.println("I print hello world!");
+        return "Hello World!!!!!!";
     }
 }
