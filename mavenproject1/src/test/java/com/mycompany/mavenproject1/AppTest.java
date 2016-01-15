@@ -42,7 +42,7 @@ public class AppTest
      */
     public void testPrintHello() {
         System.out.println("printHello");
-        String expResult = "Hello World!";
+        String expResult = "Hello world!";
         String result = App.printHello();
         assertEquals(expResult, result);
     }

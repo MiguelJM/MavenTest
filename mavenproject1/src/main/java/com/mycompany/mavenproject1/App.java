@@ -14,6 +14,6 @@ public class App
     public static String printHello(  )
     {
         System.out.println("I print hello world!");
-        return "Hello World!!!!!!";
+        return "Hello World!";
     }
 }
